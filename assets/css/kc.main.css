@@ -698,6 +698,9 @@ section {
         #logos ul.logos li {
           flex-direction: column;
           margin: 15px 0px; } }
+      @media (max-width: 900px) {
+        #logos ul.logos li {
+          width: 100px; } }
       #logos ul.logos li:nth-child(n+5){
         order: 1;
       }
