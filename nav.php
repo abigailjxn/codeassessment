@@ -5,7 +5,7 @@
 			<ul>
 				<li><a href="#section1">Class A</a></li>
 				<li><a href="#section2">Class B</a></li>
-				<li><a href="#">Bios</a></li>
+				<li><a href="#section3">Bios</a></li>
 				<li><a href="#section4">Contact</a></li>
 
 			</ul>
@@ -28,10 +28,10 @@
 		<div class="insideModal content"></div>
 		<nav class="mobileNav">
 			<ul class="primary">
-				<li><a href="#section1">Contact</a></li>
 				<li><a href="#section1">Class A</a></li>
 				<li><a href="#section2">Class B</a></li>
-				<li><a href="#section4">Bios</a></li>
+				<li><a href="#section3">Bios</a></li>
+				<li><a href="#section4">Contact</a></li>
 				
 			</ul>
 		</nav>
