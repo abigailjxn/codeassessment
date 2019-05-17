@@ -16,7 +16,6 @@
 						<h3>The right interpersonal Power Skills to master career progression.</h3>
 						<a class="button" href="#section4">Sign up Now</a>
 					</div>
-					
 				</div>
 
 			</section>
@@ -26,13 +25,9 @@
 				<div class="container">
 					<div class="half">
 						<h2>Winning in the Work World</h2>
-
 						<h5>The right interpersonal PowerSkills to start careers on the best path forward</h5>
-
 						<p>The difference between new hires lasting more than six months or not is Standing Out</p>
-
 						<p>Help employees progress in their careers with the right interpersonal PowerSkills</p>
-						
 						<button><a href="#section4">Sign up Now</a></button>
 					</div>
 
@@ -48,9 +43,6 @@
 							<li>Scenarios You Will Experience in the Work World</li>
 							<li>Building Networks Internally and Externally</li>
 						</ul>
-
-
-						
 					</div>
 					
 				</div>
@@ -64,7 +56,6 @@
 				<div class="container">
 
 					<div class="half">
-
 						<h4>10 Class B Videos</h4>
 						<ul class="checklist">
 							<li>How to use GEM Philosophy to Stand Out </li>
@@ -77,24 +68,16 @@
 							<li>Coaching and Recognize other </li>
 							<li>Personal Action Planning</li>
 						</ul>
-						
-
 					</div>
 
 					<div class="line"></div>
 
 					<div class="half">
 						<h2>Global Executive Mindset</h2>
-
 						<h5>The right interpersonal PowerSkills to drive career progression</h5>
-
 						<p>The difference between being seen and heard, and not, is Standing Out</p>
-
 						<p>Help employees progress in their careers with the right interpersonal PowerSkills</p>
-
-
 						<button><a href="#section4">Sign up Now</a></button>
-
 					</div>
 					
 				</div>
@@ -136,10 +119,9 @@
 							<h2>Steve<br>Smith</h2>
 						</div>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut consectetur velit. Aliquam erat volutpat. Pellentesque in dapibus est, ac hendrerit dui. Nulla velit orci, tincidunt a molestie ut, condimentum at ante. Aliquam sed eros vel velit pharetra pretium vel vitae libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</p> 
-						<p>Per inceptos himenaeos. Sed lacinia ornare sapien sed tincidunt. Nam pretium velit in lacinia semper. Duis mattis eget enim sed pulvinar. Fusce nec porta magna. Curabitur maximus leo neque, vitae gravida arcu suscipit vitae. Nullam tincidunt, nibh et tristique porttitor, elit felis tristique mi, auctor ullamcorper diam dolor vitae orci. Nulla facilisi. Proin malesuada tristique massa, sit amet feugiat nisl tristique eget.</p>
-						
-						
+						<p>Per inceptos himenaeos. Sed lacinia ornare sapien sed tincidunt. Nam pretium velit in lacinia semper. Duis mattis eget enim sed pulvinar. Fusce nec porta magna. Curabitur maximus leo neque, vitae gravida arcu suscipit vitae. Nullam tincidunt, nibh et tristique porttitor, elit felis tristique mi, auctor ullamcorper diam dolor vitae orci. Nulla facilisi. Proin malesuada tristique massa, sit amet feugiat nisl tristique eget.</p>	
 					</div>
+
 					<div class="half">
 						<div class="title">
 							<img src="./assets/img/bobkelner.png"  alt="Bob Anderson"/>
@@ -160,8 +142,6 @@
 
 					<h2>Need more info?</h2>
 					<form id="sendContact" onsubmit="return false;">
-		
-						
 
 						<div class="row split">
 							<div class="field">
@@ -171,7 +151,6 @@
 								<input type="email" id="email" name="email" placeholder="Email Address">
 							</div>
 						</div>
-
 
 						<div class="row">
 							<div class="field">
@@ -199,9 +178,6 @@
 		<footer>
 
 		</footer><!-- end footer -->
-
-		
-
 
 	</body>
 

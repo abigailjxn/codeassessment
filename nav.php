@@ -2,6 +2,7 @@
 	<div class="container">
 		<div class="logo"><img src="./assets/img/logo.png" alt="Professional School" /></div>
 		<nav>
+			
 			<ul>
 				<li><a href="#section1">Class A</a></li>
 				<li><a href="#section2">Class B</a></li>
@@ -32,7 +33,6 @@
 				<li><a href="#section2">Class B</a></li>
 				<li><a href="#section3">Bios</a></li>
 				<li><a href="#section4">Contact</a></li>
-				
 			</ul>
 		</nav>
 	</div>
