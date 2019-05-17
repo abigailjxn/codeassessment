@@ -771,6 +771,11 @@ section {
         text-align: center; }
     #contact #sendContact .formResponse p {
       text-align: center !important; }
+    #contact #sendContact .row.split .field.submit-button {
+      width: auto; }
+      @media (max-width: 767px) {
+        #contact #sendContact .row.split .field.submit-button{
+          width: 100%; } }
     #contact #sendContact button#submit {
       margin: 0px auto 50px auto;
       background: #059395;

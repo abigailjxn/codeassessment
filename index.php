@@ -180,7 +180,7 @@
 						</div>
 
 						<div class="row split">
-							<div class="field">
+							<div class="field submit-button">
 								<div class="formResponse"></div>
 								<button class="button" type="submit" id="submit" name="submit"><span class="text">Submit</span></button>
 							</div>
