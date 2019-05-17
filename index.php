@@ -132,7 +132,7 @@
 
 					<div class="half">
 						<div class="title">
-							<img src="./assets/img/stephenkrempl.png" alt="Stephen Krempl"/>
+							<img src="./assets/img/stephenkrempl.png" alt="Steve Smith"/>
 							<h2>Steve<br>Smith</h2>
 						</div>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut consectetur velit. Aliquam erat volutpat. Pellentesque in dapibus est, ac hendrerit dui. Nulla velit orci, tincidunt a molestie ut, condimentum at ante. Aliquam sed eros vel velit pharetra pretium vel vitae libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</p> 
@@ -142,8 +142,8 @@
 					</div>
 					<div class="half">
 						<div class="title">
-							<img src="./assets/img/bobkelner.png"  alt="Bob Kelner"/>
-							<h2><span style="font-family:serif;">Bob<br>Anderson</span></h2>
+							<img src="./assets/img/bobkelner.png"  alt="Bob Anderson"/>
+							<h2>Bob<br>Anderson</h2>
 						</div>
 						<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur aliquam semper convallis. Nullam vitae metus leo. Vestibulum tincidunt et risus ac aliquet. Fusce placerat nisi sit amet dolor vehicula viverra. Nunc libero urna, lacinia eu leo vestibulum, blandit auctor dui. Phasellus ultricies at turpis ac efficitur. Vestibulum sodales tempor odio, a interdum lorem dapibus interdum. Sed rhoncus aliquet ligula. Etiam ornare dui in nisl elementum elementum.</p>
 						<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur aliquam semper convallis. Nullam vitae metus leo. Vestibulum tincidunt et risus ac aliquet.</p>
