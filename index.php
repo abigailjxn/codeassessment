@@ -33,7 +33,7 @@
 
 						<p>Help employees progress in their careers with the right interpersonal PowerSkills</p>
 						
-
+						<button><a href="#section4">Sign up Now</a></button>
 					</div>
 
 					<div class="line"></div>
