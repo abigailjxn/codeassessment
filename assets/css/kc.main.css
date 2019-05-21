@@ -711,6 +711,11 @@ section {
   @media (max-width: 1023px) {
     #bios .half:first-child {
       padding-bottom: 40px; } }
+  @media (min-width: 1024px) and (max-width: 1340px) {
+    #bios .half {
+      padding: 0px 70px;
+    }
+  }
   #bios .title {
     display: flex;
     align-content: center;

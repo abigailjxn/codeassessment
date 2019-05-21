@@ -92,7 +92,7 @@
 					<h5>Professional School is based on the very successful Instructor Led Training (ILT) Global Executive Mindset experiences at these Multi National Corporations and others</h5>
 					<ul class="logos">
 						<?php 
-
+						
 						$files = glob("./assets/img/logo/*.png");
 						foreach($files as $png){  ?>
 
